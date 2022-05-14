@@ -2,6 +2,8 @@
 
 Dit prototype is een onderdeel van de scriptie die werd gemaakt voor de opleiding Toegepaste Informatica, Mobile & Enterprise Development aan de Hogeschool Gent.
 
+Het project gaat niet succesvol runnen omdat er je daarvoor een betalend abonnement nodig hebt bij 8th Wall.
+
 # Demo
 
 ![alt text](https://user-images.githubusercontent.com/47556281/167378345-7e4090d8-9613-4b1b-9b4d-76e932f5a3e8.PNG "tap")
