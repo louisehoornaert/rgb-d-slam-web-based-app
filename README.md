@@ -6,8 +6,10 @@ Het project gaat niet succesvol runnen omdat er je daarvoor een betalend abonnem
 
 # Demo
 
+![alt text](https://user-images.githubusercontent.com/47556281/169793500-234907e6-8647-4ca8-9087-1b953b80900d.PNG "beginscherm")
+
 ![alt text](https://user-images.githubusercontent.com/47556281/167378345-7e4090d8-9613-4b1b-9b4d-76e932f5a3e8.PNG "tap")
 
-![alt text](https://user-images.githubusercontent.com/47556281/167378576-73a340c1-6362-4ee0-ac49-b436c35e3f87.PNG "hologram")
+![alt text](https://user-images.githubusercontent.com/47556281/169793508-dbb6e352-0dd0-417e-b542-f1ae43619b83.PNG "hologram")
 
-![alt text](https://user-images.githubusercontent.com/47556281/167378692-66b22b2f-3eaf-4f05-bb0a-2cac8904922e.MP4 "filmpje")
+![alt text](https://user-images.githubusercontent.com/47556281/169793515-e93e8899-0ffe-433e-a638-d5a4a67fc89c.mov "filmpje")
