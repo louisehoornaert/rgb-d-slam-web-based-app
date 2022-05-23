@@ -1,34 +1,50 @@
 .prompt {
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    bottom: 25vh;
-    
-    font-family: Menlo, monospace;
-    text-shadow: 3px 3px #ad50ff;
-    font-weight: bold;
-    letter-spacing: 2px;
-    font-size: 8vw;
-    color: white;
-    
-    pointer-events: none;
-    z-index: 10;
-  }
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom: 25vh;
   
-  h2 {
-    position: absolute;
-    text-align: center;
-    width: 100vw;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    
-    font-family: Menlo, monospace;
-    text-shadow: 2.5px 2.5px #007aff;
-    font-weight: bold;
-    letter-spacing: 2px;
-    font-size: 4.5vw;
-    color: white;
-    
-    z-index: 2;
-  }
+  font-family: Menlo, monospace;
+  text-shadow: 3px 3px #ad50ff;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 8vw;
+  color: white;
+  
+  pointer-events: none;
+  z-index: 10;
+}
+
+h2 {
+  font-size: 1.3em;
+  text-align: center;
+  font-family: monospace;
+}
+
+.hidden {
+  display: none !important;
+}
+#splashimage {
+  z-index: 998;
+  height: 100%;
+  background-image: url('./assets/beginscherm.jpg');
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#start {
+  /*z-index: 999;*/
+  width: 50vw;
+  height: auto;
+  position: absolute;
+  bottom: 5vh;
+  left: 25vw;
+  background-color: #FFFFFF;
+  border: 0.1em solid black;
+  text-align: center;
+  color: #000000;
+  border-radius: 100px;
+}

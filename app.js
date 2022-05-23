@@ -6,4 +6,7 @@
 import {depthkitComponent} from './components.js'
 AFRAME.registerComponent('depthkit', depthkitComponent)
 
+import {splashImageComponent} from './splash-image'
+AFRAME.registerComponent('splash-image', splashImageComponent)
+
 import './index.css'
